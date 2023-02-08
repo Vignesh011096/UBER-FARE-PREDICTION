@@ -17,7 +17,7 @@ passenger_count - the number of passengers in the vehicle (driver entered value)
 pickup_longitude - the longitude where the meter was engaged; 
 pickup_latitude - the latitude where the meter was engaged; 
 dropoff_longitude - the longitude where the meter was disengaged; 
-dropoff_latitude - the latitude where the meter was disengaged; 
+dropoff_latitude - the latitude where the meter was disengaged;
 
 We have used pandas, numpy, matplotlib, seaborn, calendar functions for the data cleaning and visualization purposes.
 
